@@ -3,8 +3,8 @@
 ## Overview
 
 Welcome to my analysis of the remote Data Analyst job market, focusing on identifying top-paying roles and the skills required to secure these positions. This project was developed to understand the demand for high-salary remote Data Analyst roles, uncover the most valuable skills for career growth, and highlight the tools that drive success in the field. By examining the intersection of salary trends and skill sets, this analysis provides insights into how to align career goals with lucrative opportunities in the data analytics industry.
-You can view the full code [here]()
-You can also check out other SQL code in the [SQL_Advanced]() section
+You can view the full code [here](https://github.com/Nuttaz/SQL_Project/tree/main/SQL_Project)
+You can also check out other SQL code in the [SQL_Advanced](https://github.com/Nuttaz/SQL_Project/tree/main/SQL_Advance) section
 
 ## The Question
 Here are the key questions I aim to answer through this project:
